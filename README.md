@@ -10,3 +10,10 @@ Important Resourses
 from helpers import Map, load_map_10, load_map_40, show_map
 import math
 ```
+
+Different Functions are written for
+* Data Structures
+* Path Planners
+* To connec twith other nodes
+* Scores and Cost
+* Recording the best path
